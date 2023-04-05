@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931922156001",
+    "project_id": "fir-amal",
+    "storage_bucket": "fir-amal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931922156001:android:6a7e4a307145f4a8625aa0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ajar_amal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931922156001-37o4qrqkour1u1ujpqu2mdbdq77boif5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDGjbJ4uOG1HAAfzk6Wa53U2anRZXodk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931922156001-37o4qrqkour1u1ujpqu2mdbdq77boif5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
